@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Святые капибары</title> <!-- Название вкладки сайта -->
+    </head>
+    <body style="background-color:lightgreen; font-family: "Arial", sans-serif;">
+        <header style="background-color:orange">
+           
+            <h1 style="text-align:center; font-size:50px"> 
+                <img src="https://thumbor.kiiiosk.store/unsafe/1008x/https://aws.kiiiosk.store/uploads/shop/9065/uploads/product_image/image/795354/845aac8b866d6453e62c331c657d1ce320230529-4092812-wuchlm.jpg" style="height:50px; width:50px">Святая капибара живет тут!
+            </h1> <!-- Главный заголовок сайта -->
+
+        </header> <!-- Шапка сайта -->
+        <main> <!-- Основное с сайта -->
+            <h2 style="text-align:center; font-size:40px">Что такое Капибара?</h2> <!-- Подзаголовок сайта -->
+
+            <p style="font-size:20px">
+                Капиба́ра — полуводное травоядное млекопитающее из подсемейства водосвинковых, один из двух ныне существующих видов рода водосвинки. Капибара — самый крупный среди современных грызунов.
+
+                <img src="https://api.nashkiev.ua/img-srv/image/width=860,quality=85/media-storage/04_2018/3a9459f6f2f48de5_mi.jpg" style="height:250px; width:400px">
+
+            </p>
+
+            <h2 style="text-align:center; font-size:40px">Что кушает Капибара?</h2> <!-- Подзаголовок сайта -->
+
+            <p style="font-size:20px">
+                Капибары – травоядные животные. Питаются травянистой растительностью, клубнями, фруктами и корой деревьев.
+                <br>  <!-- Перенос строки -->
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAw5hjZWwa3A_VnWR4Ffu8l59V-hKZisGMw&usqp=CAU" style="height:250px; width:200px">
+
+            </p>
+
+             <h2 style="text-align:center; font-size:40px">Где живет Капибара?</h2> <!-- Подзаголовок сайта -->
+
+            <p style="font-size:20px">
+                Распространена в Южной Америке в таких странах: Аргентина, Боливия, Бразилия, Венесуэла, Гайана, Колумбия, Парагвай, Перу, Уругвай, Французская Гвиана. Область распространения включает бассейны рек Ориноко, Амазонки и Ла-Платы.
+
+                <br>
+
+            <img src="https://faunistics.com/wp-content/uploads/2021/06/2.jpg" style="height:250px; width:400px">
+
+            </p>
+
+            <table style="border:1px solid black; border-collapse: collapse;">  <!-- Таблица сайта -->
+                <tr style="background-color:beige; color:darkblue"> <!-- Строчка таблицы -->
+                    <td style="border:1px solid black;font-size:20px">Кто купил</td> <!-- Клеточка таблицы -->
+                    <td style="border:1px solid black;font-size:20px">Сколько</td>
+                    <td style="border:1px solid black;font-size:20px">Сколько заплатил</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid black;font-size:20px">Антон</td>
+                     <td style="border:1px solid black;font-size:20px">1</td>
+                     <td style="border:1px solid black;font-size:20px">250</td>
+                </tr>
+                <tr>
+                     <td style="border:1px solid black;font-size:20px">Ангелина</td>
+                     <td style="border:1px solid black;font-size:20px">3</td>
+                     <td style="border:1px solid black;font-size:20px">750</td>
+                </tr>
+                <tr>
+                     <td style="border:1px solid black;font-size:20px">Полина</td>
+                     <td style="border:1px solid black;font-size:20px">2000</td>
+                     <td style="border:1px solid black;font-size:20px">500000</td>
+                </tr>
+            </table>
+
+        </main> <!-- Основной контент сайта -->
+
+        <footer>
+            <p style="text-align:center; background-color:violet">Для покупки звоните по номеру +0615029123</p>
+        </footer> <!-- Подвал сайта -->
+    </body>
+</html>
